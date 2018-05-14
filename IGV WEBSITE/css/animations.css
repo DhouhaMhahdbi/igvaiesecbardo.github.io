@@ -12,80 +12,80 @@
     animation-fill-mode: both; 
 } 
 .slow{
-     -webkit-animation-duration: 1.5s; 
-    animation-duration: 1.5s; 
+     -webkit-animation-duration: 1.2s; 
+    animation-duration: 1.2s; 
     -webkit-animation-fill-mode: both; 
     animation-fill-mode: both; 
 }
 .slower{
-     -webkit-animation-duration: 2.5s; 
-    animation-duration: 2.5s; 
+     -webkit-animation-duration: 1.4s; 
+    animation-duration: 1.4s; 
     -webkit-animation-fill-mode: both; 
     animation-fill-mode: both; 
 }
 .slowest{
+     -webkit-animation-duration: 1.6s; 
+    animation-duration: 1.6s; 
+    -webkit-animation-fill-mode: both; 
+    animation-fill-mode: both; 
+}
+.slowest1{
+     -webkit-animation-duration: 1.8s; 
+    animation-duration: 1.8s; 
+    -webkit-animation-fill-mode: both; 
+    animation-fill-mode: both; 
+}
+.slowest2{
+     -webkit-animation-duration: 2s; 
+    animation-duration: 2s; 
+    -webkit-animation-fill-mode: both; 
+    animation-fill-mode: both; 
+}
+.slowest3{
+     -webkit-animation-duration: 2.2s; 
+    animation-duration: 2.2s; 
+    -webkit-animation-fill-mode: both; 
+    animation-fill-mode: both; 
+}
+.slowest4{
+     -webkit-animation-duration: 2.4s; 
+    animation-duration: 2.4s; 
+    -webkit-animation-fill-mode: both; 
+    animation-fill-mode: both; 
+}
+.slowest5{
+     -webkit-animation-duration: 2.6s; 
+    animation-duration: 2.6s; 
+    -webkit-animation-fill-mode: both; 
+    animation-fill-mode: both; 
+}
+.slowest6{
+     -webkit-animation-duration: 2.8s; 
+    animation-duration: 2.8s; 
+    -webkit-animation-fill-mode: both; 
+    animation-fill-mode: both; 
+}
+.slowest7{
      -webkit-animation-duration: 3s; 
     animation-duration: 3s; 
     -webkit-animation-fill-mode: both; 
     animation-fill-mode: both; 
 }
-.slowest1{
-     -webkit-animation-duration: 3.5s; 
-    animation-duration: 3.5s; 
-    -webkit-animation-fill-mode: both; 
-    animation-fill-mode: both; 
-}
-.slowest2{
-     -webkit-animation-duration: 4s; 
-    animation-duration: 4s; 
-    -webkit-animation-fill-mode: both; 
-    animation-fill-mode: both; 
-}
-.slowest3{
-     -webkit-animation-duration: 4.5s; 
-    animation-duration: 4.5s; 
-    -webkit-animation-fill-mode: both; 
-    animation-fill-mode: both; 
-}
-.slowest4{
-     -webkit-animation-duration: 5s; 
-    animation-duration: 5s; 
-    -webkit-animation-fill-mode: both; 
-    animation-fill-mode: both; 
-}
-.slowest5{
-     -webkit-animation-duration: 5.5s; 
-    animation-duration: 5.5s; 
-    -webkit-animation-fill-mode: both; 
-    animation-fill-mode: both; 
-}
-.slowest6{
-     -webkit-animation-duration: 6s; 
-    animation-duration: 6s; 
+.slowest7{
+     -webkit-animation-duration: 3.2s; 
+    animation-duration: 3.2s; 
     -webkit-animation-fill-mode: both; 
     animation-fill-mode: both; 
 }
 .slowest7{
-     -webkit-animation-duration: 6.5s; 
-    animation-duration: 6.5s; 
-    -webkit-animation-fill-mode: both; 
-    animation-fill-mode: both; 
-}
-.slowest7{
-     -webkit-animation-duration: 7s; 
-    animation-duration: 7s; 
-    -webkit-animation-fill-mode: both; 
-    animation-fill-mode: both; 
-}
-.slowest7{
-     -webkit-animation-duration: 7.5s; 
-    animation-duration: 7.5s; 
+     -webkit-animation-duration: 3.4s; 
+    animation-duration: 3.4s; 
     -webkit-animation-fill-mode: both; 
     animation-fill-mode: both; 
 }
 .slowest8{
-     -webkit-animation-duration: 8s; 
-    animation-duration: 8s; 
+     -webkit-animation-duration: 3.6s; 
+    animation-duration: 3.6s; 
     -webkit-animation-fill-mode: both; 
     animation-fill-mode: both; 
 }
